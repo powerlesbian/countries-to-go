@@ -1,3 +1,9 @@
+following the apollo graphql blog tutorial at: https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/
+
+uses a countries api: https://countries.trevorblades.com
+
+updated my own SVG and ico files, but using the next.js homepage layout for the moment. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
