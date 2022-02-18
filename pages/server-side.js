@@ -21,7 +21,7 @@ export default function Home( { countries } ) {
 
         <p className={styles.description}>
           I'm still editing this page, the repo can be found at{' '}
-          <a className={styles.code} href="https://github.com/powerlesbian/countries-to-go">powerlesbian/countries-to-go</a>
+          <code className={styles.code}>pages/index.js</code>
         </p>
 
     <div className={styles.grid}>
@@ -52,7 +52,7 @@ export default function Home( { countries } ) {
   )
 }
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const { data } = await client.query({
     query: gql`
       query Countries {
