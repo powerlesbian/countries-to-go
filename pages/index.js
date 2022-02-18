@@ -15,7 +15,7 @@ export default function Home( { countries } ) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to the page of <br></br>Flying GG and<br></br>
+          Welcome to the "✈️ to travel 🚁🛥🗿" page of <br></br>Flying GG and<br></br>
           <a href="https://nextjs.org"> JW the Explorer!</a>
         </h1>
 
