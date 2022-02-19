@@ -5,6 +5,7 @@ uses a countries api: https://countries.trevorblades.com
 updated my own SVG and ico files, but using the next.js homepage layout for the moment. 
 
 This repo teaches the difference between build time rendering with staticProps (see pages/index.js), serverSide rendering (see server-side.js), and React's client side rendering as can be seen in the components directory. 
+<img width="1232" alt="Screenshot 2022-02-19 at 9 38 13 PM" src="https://user-images.githubusercontent.com/81912588/154803343-0806796f-5769-4d3c-b29c-f88c54a87370.png">
 
 more on the react part be followed here: https://www.joshwcomeau.com/react/the-perils-of-rehydration/
 
